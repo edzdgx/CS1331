@@ -1,0 +1,9 @@
+javac -d target/classes src/main/java/*.java
+java -cp target/classes Zoo
+javac -cp target/classes/ -d target/classes/ src/main/java/Zoo.java
+
+// package statement at the top of all source files in a package
+package edu.gatech.cs1331.company;
+
+
+

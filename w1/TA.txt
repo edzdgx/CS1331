@@ -1,0 +1,8 @@
+ahirschberg3@gatech.edu
+sbranham6@gatech.edu
+
+git bash
+git-scm.com/download/win
+(large files, show blahblah)
+
+sublime
